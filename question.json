@@ -1,0 +1,162 @@
+[
+{
+    "question" : "Arus AC adalah…",
+    "a": "Arus yang arahnya searah",
+    "b": "Arus yang arahnya bolak-balik",
+    "c": "Arus yang berlawanan arah",
+    "d": "Arus yang arahnya sejajar",
+    "answer": "b"
+},
+{
+    "question" : "Kuat arus yang dianggap setara dengan arus searah yang menghasilkan jumlah kalor yang sama ketika melalui suatu penghantar dalam waktu yang sama disebut....",
+    "a": "Arus maksimum",
+    "b": "Arus minimum",
+    "c": "Arus efektif",
+    "d": "Arus rata-rata",
+    "answer": "c"
+},
+{
+    "question" : "Sebuah sumber tegangan AC memiliki tegangan maksimum 120 V. Berapakah tegangan efektif sumber tegangan tersebut?",
+    "a": "84,85 V",
+    "b": "85,85 V",
+    "c": "86,85 V",
+    "d": "87,85 V",
+    "answer": "a"
+},
+{
+    "question" : "Sebuah sumber tegangan memili persamaan V = 220 sin 50πt Volt. Berapakah frekuensi tegangannya?",
+    "a": "25 Hz",
+    "b": "30 Hz",
+    "c": "45 Hz",
+    "d": "50 Hz",
+    "answer": "a"
+},
+{
+    "question" : "Arus mendahului tegangan terjadi pada rangkaian....",
+    "a": "Resistor",
+    "b": "Induktor",
+    "c": "Kapasitor",
+    "d": "Dioda",
+    "answer": "c"
+},
+{
+    "question" : "Tegangan mendahului tarus terjadi pada rangkaian....",
+    "a": "Resistor",
+    "b": "Induktor",
+    "c": "Kapasitor",
+    "d": "Dioda",
+    "answer": "b"
+},
+{
+    "question" : "Arus sefase dengan tegangan terjadi pada rangkaian....",
+    "a": "Resistor",
+    "b": "Induktor",
+    "c": "Kapasitor",
+    "d": "Dioda",
+    "answer": "a"
+},
+{
+    "question" : "Sebuah induktor 250 mH disambungkan dengan tegangan V = 200 sin 100 t Volt. Berapakah reaktansi induktifnya?",
+    "a": "2,5 Ohm",
+    "b": "25 Ohm",
+    "c": "250 Ohm",
+    "d": "2500 Ohm",
+    "answer": "b"
+},
+{
+    "question" : "Sebuah kapasitor 50 uF disambungkan dengan tegangan V = 200 sin 100 t Volt. Berapakah reaktansi kapasitifnya?",
+    "a": "2 Ohm",
+    "b": "20 Ohm",
+    "c": "200 Ohm",
+    "d": "2000 Ohm",
+    "answer": "c"
+},
+{
+    "question" : "Sebuah kapasitor 500 uF disambungkan dengan tegangan V = 200 sin 100 t Volt. Berapakah arus maksimumya?",
+    "a": "5 A",
+    "b": "10 A",
+    "c": "15 A",
+    "d": "20 A",
+    "answer": "b"
+},
+{
+    "question" : "Sebuah rangkaian RL memiliki R = 8 Ohm, dan XL = 6 Ohm. Berapakah impedansinya?",
+    "a": "8 Ohm",
+    "b": "10 Ohm",
+    "c": "12 Ohm",
+    "d": "16 Ohm",
+    "answer": "b"
+},
+{
+    "question" : "Sebuah rangkaian RC memiliki R = 30 Ohm, dan kapasitor C = 250 uF disambungkan dengan tegangan V = 200 sin 100 t Volt. Berapakah impedansinya?",
+    "a": "25 Ohm",
+    "b": "50 Ohm",
+    "c": "125 Ohm",
+    "d": "150 Ohm",
+    "answer": "b"
+},
+{
+    "question" : "Sebuah rangkaian LC memiliki sifat induktif. Hal ini terjadi saat....",
+    "a": "XL > XC",
+    "b": "XL < XC",
+    "c": "XL = XC",
+    "d": "XL = 0",
+    "answer": "a"
+},
+{
+    "question" : "Sebuah rangkaian seri RLC dengan R = 8 Ohm, XL = 10 Ohm, dan, XC = 4 Ohm dihubungkan dengan tegangan V = 300 sin 100t Volt. Berapakah impedansinya?",
+    "a": "8 Ohm",
+    "b": "10 Ohm",
+    "c": "12 Ohm",
+    "d": "16 Ohm",
+    "answer": "b"
+},
+{
+    "question" : "Sebuah rangkaian seri RLC dengan R = 80 Ohm, L = 1 H, dan, C = 250 uF dihubungkan dengan tegangan V = 300 sin 100t Volt. Berapakah arus maksimumnya?",
+    "a": "1 A",
+    "b": "2 A",
+    "c": "3 A",
+    "d": "4 A",
+    "answer": "c"
+},
+{
+    "question" : "Pada rangkaian seri RLC frekuensi resonansi terjadi saat....",
+    "a": "XL > XC",
+    "b": "XL < XC",
+    "c": "XL = XC",
+    "d": "XL = 0",
+    "answer": "c"
+},
+{
+    "question" : "Sebauh rangkaian RLC yang memiliki R = 10 Ohm dan arus efektif = 10 A. Berapakah daya nyatanya?",
+    "a": "400 Watt",
+    "b": "450 Watt",
+    "c": "500 Watt",
+    "d": "550 Watt",
+    "answer": "c"
+},
+{
+    "question" : "Sebuah rangkaian seri RLC dengan R = 80 Ohm, L = 1 H, dan, C = 250 uF dihubungkan dengan tegangan V = 300 sin 100t Volt. Berapakah semunya?",
+    "a": "400 Watt",
+    "b": "415 Watt",
+    "c": "425 Watt",
+    "d": "450 Watt",
+    "answer": "d"
+},
+{
+    "question" : "Sebuah rangkaian seri RLC dengan R = 80 Ohm, L = 1 H, dan, C = 250 uF dihubungkan dengan tegangan V = 300 sin 100t Volt. Berapakah faktor dayanya?",
+    "a": "0,4",
+    "b": "0,6",
+    "c": "0,8",
+    "d": "1,0",
+    "answer": "c"
+},
+{
+    "question" : "Sebuah rangkaian RLC memiliki sifat kapasitif. Hal ini terjadi saat....",
+    "a": "XL > XC",
+    "b": "XL < XC",
+    "c": "XL = XL",
+    "d": "XL = 0",
+    "answer": "b"
+}
+]
